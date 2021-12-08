@@ -267,12 +267,3 @@ if __name__ == '__main__':
         np.savetxt('val_aupr_aff', val_aupr_round)
         np.savetxt('test_auc_aff', test_auc_round)
         np.savetxt('test_aupr_aff', test_aupr_round)
-
-
-
-
-
-    
-
-
-
