@@ -204,13 +204,3 @@ if __name__ == '__main__':
         count += 1
     print('Retraining Network')
     retrain(args=args, DTItrain=data_set, aff=affinity_network)
-        
-
-
-
-
-
-    
-
-
-
